@@ -1,0 +1,15 @@
+{
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:twin:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663@github.com/kody-w/lumen-brainstem",
+  "kind": "twin",
+  "name": "lumen-brainstem",
+  "display_name": "Lumen",
+  "github": "https://github.com/kody-w/lumen-brainstem",
+  "url": "https://kody-w.github.io/lumen-brainstem/",
+  "parent_rappid": null,
+  "parent_repo": "https://github.com/kody-w/RAPP",
+  "planted_by": "kody-w",
+  "planted_at": "2026-05-09T15:45:28Z",
+  "kernel_version": "0.6.0",
+  "_planted_by_agent": "plant_seed_agent"
+}
