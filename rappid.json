@@ -1,16 +1,17 @@
 {
   "schema": "rapp-rappid/2.0",
-  "rappid": "rappid:v2:twin:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663@github.com/kody-w/lumen-brainstem",
+  "rappid": "rappid:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663",
   "kind": "twin",
   "name": "lumen-brainstem",
   "display_name": "Lumen",
   "github": "https://github.com/kody-w/lumen-brainstem",
   "url": "https://kody-w.github.io/lumen-brainstem/",
-  "parent_rappid": "rappid:v2:operator:@kody-w/kody-twin:91d006ca7bd052bfa5021d623122012f@github.com/kody-w/kody-twin",
+  "parent_rappid": "rappid:@kody-w/kody-twin:91d006ca7bd052bfa5021d623122012f",
   "parent_repo": "https://github.com/kody-w/RAPP",
   "planted_by": "kody-w",
   "planted_at": "2026-05-09T15:45:28Z",
   "kernel_version": "0.6.0",
   "_planted_by_agent": "plant_seed_agent",
-  "_backfill_reason_parent": "Article XLVI.6 \u2014 parent_rappid for rebuild"
+  "_backfill_reason_parent": "Article XLVI.6 \u2014 parent_rappid for rebuild",
+  "_migrated_from": "rappid:v2:twin:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663@github.com/kody-w/lumen-brainstem"
 }
