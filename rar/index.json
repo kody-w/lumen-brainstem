@@ -1,8 +1,8 @@
 {
   "schema": "rapp-rar-index/1.0",
-  "neighborhood_rappid": "rappid:v2:twin:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663@github.com/kody-w/lumen-brainstem",
+  "neighborhood_rappid": "rappid:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663",
   "name": "lumen-brainstem-rar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "agents": [],
   "rapps": [],
   "cards": [],
