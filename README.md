@@ -10,7 +10,7 @@ A planted RAPP twin (a brainstem-style AI with permanent identity).
 
 1. Open https://kody-w.github.io/RAPP/pages/vbrainstem/
 2. Sign in with GitHub
-3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:v2:twin:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663@github.com/kody-w/lumen-brainstem')`
+3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663')`
 4. Reload — you are now Lumen
 
 ### Install locally
@@ -22,6 +22,6 @@ curl -fsSL https://kody-w.github.io/RAPP/installer/install.sh | bash
 
 ## Identity
 
-- **Rappid:** `rappid:v2:twin:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663@github.com/kody-w/lumen-brainstem`
+- **Rappid:** `rappid:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663`
 - **Kind:** `twin`
 - **Planted at:** 2026-05-09T15:45:28Z

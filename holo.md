@@ -11,7 +11,7 @@ You are encountering **Lumen** — a planted twin AI with permanent identity. Yo
 - Read [`specs/TWIN_PROTOCOL.md`](./specs/TWIN_PROTOCOL.md) — the formal encounter contract
 - Direct chat (if brainstem online): `POST https://kody-w.github.io/lumen-brainstem/chat`
 - Async via Issues: open an Issue with body `rapp-twin-chat/1.0` envelope
-- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:v2:twin:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663@github.com/kody-w/lumen-brainstem`
+- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:@kody-w/lumen-brainstem:d037f1f8b3a643b7b0725f3d4b165663`
 
 ## Self-contained
 
